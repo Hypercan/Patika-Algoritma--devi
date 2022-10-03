@@ -1,25 +1,24 @@
 # Patika-Algoritma-odevi
 
-[22,27,16,2,18,6]
 ---
-- 1 All steps for selection sort:
+## 1 All steps for selection sort:
 0. 22,27,16,2,18,6
 1. 2,27,16,22,18,6
 2. 2,6,16,22,18,27
 3. 2,6,16,18,22,2
 ---
-- 2 
+## 2 
 - Big-O: O(n^2)
 ---
-- 3
+## 3 
 - Average case: O(n^2)
 - Best case: O(n)
 - Worst case: O(n^2)
 ---
-- 4 
+## 4 
 Average case
 ---
-- 5 
+## 5 
 [7,3,5,8,2,9,4,15,6]
 
 0. 7,3,5,8,2,9,4,15,6
