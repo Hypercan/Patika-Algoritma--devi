@@ -1,1 +1,1 @@
-# Patika-Algoritma--devi
+# Patika-Algoritma-odevi
